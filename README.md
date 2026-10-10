@@ -8,6 +8,5 @@ Repository bersama praktikum DevOps - Politeknik Negeri Batam.
 | Developer B | Fiony | @sitipyoo |
 ## Daftar Skrip
 - setup.sh - menyiapkan lingkungan dan menjalankan smoke test
-uji langsung
-* `monitoring.sh` memantau layanan secara berkala
-* `monitoring.sh` memantau layanan secara berkala
+- monitoring.sh - memantau layanan secara berkala
+- healthcheck.sh - memeriksa status layanan
